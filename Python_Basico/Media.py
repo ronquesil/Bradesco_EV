@@ -1,3 +1,4 @@
+#Estrutura de decisão composta (média)
 notaA = float(input("Informe a primeira nota: "))
 notaB = float(input("Informe a segunda nota: "))
 
